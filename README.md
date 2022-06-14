@@ -53,7 +53,7 @@ wget -L https://utexas.box.com/shared/static/migniec2yb07vc8kz002kub658840dun.cs
 The above files can also be downloaded manually using these links [link1](https://utexas.box.com/s/63pvroz3287j1kj7ja0gv81vw2txnwlw), [link2](https://utexas.box.com/s/migniec2yb07vc8kz002kub658840dun)
 Google drive links [link1](https://drive.google.com/file/d/1N7EGdS-mobbcWmJUOvblCyQ_xWQ4hwjc/view?usp=sharing), [link2](https://drive.google.com/file/d/109w9c6t8EAEP_yrLKJtzsYAB1-QbLXoy/view?usp=sharing)
 
-# Spatial Feature Extraction
+### Spatial Feature Extraction
 Spatial features are extracted using [CONTRIQUE](https://github.com/pavancm/CONTRIQUE) model using the following commands
 ```
 python3 spatial_feature_extract_syn.py
